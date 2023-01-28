@@ -1,6 +1,6 @@
 for (var i = 30; i <= 86 ; i++) {
-    console.log(i);
-    if(i > 43) {
+    if(i > 44) {
         break;
     }
+    console.log(i);
 }
